@@ -31,7 +31,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-## Tools Skills:
+## Tools:
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-FE7A16.svg?style=for-the-badge&logo=jupyter-notebook&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
