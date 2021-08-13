@@ -46,6 +46,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAaron93&show_icons=true&locale=en" alt="JAaron93" /></p>
+
 
 ---
 
