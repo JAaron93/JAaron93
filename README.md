@@ -6,6 +6,8 @@
 - 📝 I write articles on [Medium](https://joshua-elamin-datasci.medium.com/)
 - 🥅 My Primary Goal for 2021: Launching my own Data Science oriented blockchain-based startup
 
+<br />
+
 <h3 align="left"> Connect with me:</h3>
 
 
@@ -15,11 +17,9 @@
 
 
 [<img align="left" style="margin-right: 1.5rem" alt="Medium" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
-
-
-
 <br />
 
+<br />
 
 ## Technical Skills:
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
@@ -37,6 +37,8 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
+<br />
+
 ## Tools:
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -51,6 +53,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+
+<br />
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAaron93&show_icons=true&locale=en" alt="JAaron93" /></p>
