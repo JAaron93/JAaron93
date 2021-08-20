@@ -8,6 +8,9 @@
 
 <br />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JAaron93&label=Profile%20views&color=0e75b6&style=flat" alt="JAaron93" /> </p>
+
+
 <h3 align="left"> Connect with me:</h3>
 
 
@@ -53,11 +56,12 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 <br />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAaron93&show_icons=true&locale=en" alt="JAaron93" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAaron93&show_icons=true&locale=en&theme=dracula" alt="JAaron93" /></p>
 
 
 ---
