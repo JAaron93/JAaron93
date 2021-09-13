@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Josh</h1>
 <h3 align="center"> A philosophically inclined Data Scientist from California</h3>
 
-- 🔭 I’m currently working on Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-ds-a)
-- 🌱 I’m currently learning **FastAPI** and **Tableau** while honing my Deep Learning skills with both **Tensorflow** and **PyTorch**
+- 🔭 Just finished an internship on Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-ds-a)
+- 🌱 I’m currently learning **FastAPI**, **Tableau**, and **Solidity** while honing my Deep Learning skills with both **Tensorflow** and **PyTorch**
 - 📝 I write articles on [Medium](https://joshua-elamin-datasci.medium.com/)
 - 🥅 My Primary Goal for 2021: Launching my own Data Science oriented blockchain-based startup
 
@@ -33,7 +33,7 @@
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![Solidity](https://img.shields.io/badge/Solidity%20-%231572B6.svg?&style=for-the-badge&logo=solidity&logoColor=white)
 
-### Markups:
+#### Markups:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
