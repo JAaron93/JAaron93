@@ -25,7 +25,6 @@
 
 <br />
 
-<br />
 
 ## Technical Skills:
 
