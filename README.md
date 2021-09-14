@@ -96,11 +96,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAaron93&show_icons=true&locale=en&theme=dracula" alt="JAaron93" /></p>
 
-<h1 align="left">Lambda School | Data Science & Machine Learning Credential</h1>
+## Lambda School | Data Science & Machine Learning Credential
 
-[<img align="left" style="margin-right: 1.5rem" alt="" width="70px" src="assets\data-science-machine-learning.1.png"/>][credly]
-
----
+[<img align="left" style="margin-right: 1.5rem" alt="" width="270px" src="assets\data-science-machine-learning.1.png"/>][credly]
 
 [medium]: https://joshua-elamin-datasci.medium.com/
 [linkedin]: https://www.linkedin.com/in/joshua-elamin-2b2ba9209/
