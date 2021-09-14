@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Josh</h1>
 <h3 align="center"> A philosophically inclined Data Scientist from California</h3>
 
-- 🔭 Just finished an internship on Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-ds-a)
+- 🔭 Just finished an internship with Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-ds-a)
 - 🌱 I’m currently learning **FastAPI**, **Tableau**, and **Solidity** while honing my Deep Learning skills with both **Tensorflow** and **PyTorch**
 - 📝 I write articles on [Medium](https://joshua-elamin-datasci.medium.com/)
 - 🥅 My Primary Goal for 2021: Launching my own Data Science oriented blockchain-based startup
