@@ -23,6 +23,8 @@
 
 <a href="mailto:joshua.elamin.datasci@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="gmail" margin="4px" width="35px" style="vertical-align:top; margin:4px"></a>
 
+
+
 <br />
 
 
@@ -96,11 +98,13 @@
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaron93&hide=jupyter%20notebook&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAaron93&show_icons=true&locale=en&theme=synthwave" alt="JAaron93" /></p>
-
-
+<a href="https://github.com/anuragh
+         azra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaaron93&hide=jupyter%20notebook&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JAaron93&show_icons=true&locale=en&theme=synthwave" />
+</a>
 
 
 ## Lambda School | Data Science & Machine Learning Credential
