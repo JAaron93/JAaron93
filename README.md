@@ -96,7 +96,12 @@
 <br />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAaron93&show_icons=true&locale=en&theme=dracula" alt="JAaron93" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaron93&hide=jupyter%20notebook&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JAaron93&show_icons=true&locale=en&theme=synthwave" alt="JAaron93" /></p>
+
+
+
 
 ## Lambda School | Data Science & Machine Learning Credential
 
