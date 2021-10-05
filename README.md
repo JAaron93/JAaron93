@@ -109,9 +109,9 @@
 
 ## Lambda School | Data Science & Machine Learning Credential
 
-[<img align="left" style="margin-right: 1.5rem" alt="" width="60px" src="assets\Data_Science___Machine_Learning_Badge20211005-53-yoeeyp.pdf"/>]
+[<img align="left" style="margin-right: 1.5rem" alt="" width="60px" src="assets\Credly - Badge & Cert.png"/>][credly]
 
 [medium]: https://joshua-elamin-datasci.medium.com/
 [linkedin]: https://www.linkedin.com/in/joshua-elamin-2b2ba9209/
 [kaggle]: https://www.kaggle.com/pretermodernist
-[credly]: https://www.credly.com/badges/f868515f-e525-41c7-a91f-e79ca81ab4b2/public_url
+[credly]: https://www.credly.com/go/fLcdYV9n
