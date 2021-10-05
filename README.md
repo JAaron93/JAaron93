@@ -109,7 +109,7 @@
 
 ## Lambda School | Data Science & Machine Learning Credential
 
-[<img align="left" style="margin-right: 1.5rem" alt="" width="800px" src="assets\data-science-machine-learning.1.png"/>][credly]
+[<img align="left" style="margin-right: 1.5rem" alt="" width="800px" src="assets\Credly - DS & ML Cert.png"/>][credly]
 
 [medium]: https://joshua-elamin-datasci.medium.com/
 [linkedin]: https://www.linkedin.com/in/joshua-elamin-2b2ba9209/
