@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Josh</h1>
 <h3 align="center"> A philosophically inclined Data Scientist from California</h3>
 
-- 🔭 Just launched my DS career as an Implementation Engineer at [Forethought](https://forethought.ai/)
-- 🌱 I’m currently learning **FastAPI**, **Kubernetes**, and **Clarity** while honing my NLP skills with both **spaCy** and **NLTK**
+- 🔭 Former Implementation Engineer @ [Forethought](https://forethought.ai/)
+- 🌱 I’m currently taking [Kaggle's Gen AI Intensive Course](https://www.kaggle.com/learn-guide/5-day-genai)
 - 📝 I write articles on [Medium](https://joshua-elamin-datasci.medium.com/)
 
 <br />
@@ -20,8 +20,6 @@
 
 [<img align="left" style="margin-right: 1.5rem" alt="Medium" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
 
-<a href="mailto:joshua.elamin@forethought.ai" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="gmail" margin="4px" width="35px" style="vertical-align:top; margin:4px"></a>
-
 
 
 <br />
@@ -31,7 +29,6 @@
 
 #### Languages:
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
-![Solidity](https://img.shields.io/badge/Solidity%20-%231572B6.svg?&style=for-the-badge&logo=solidity&logoColor=white)
 
 #### Markups:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -44,7 +41,6 @@
 
 #### Data Visualization:
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-2E3440?style=for-the-badge&logo=Tableau)
 
 #### Machine Learning:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -87,7 +83,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
 #### Others:
