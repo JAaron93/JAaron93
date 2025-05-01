@@ -23,7 +23,10 @@
 
 
 
-<br />
+
+
+<br clear="all" />
+<div style="margin-bottom: 20px;"></div>
 
 
 ## Technical Skills:
@@ -153,7 +156,7 @@
 <br clear="all" />
 <div style="margin-bottom: 20px;"></div>
 
-### Kaggle | Gen AI Intensive Course Certificate
+### Kaggle | Gen AI Intensive Certificate
 
 [<img align="left" style="margin-right: 1.5rem" alt="" width="800px" src="assets\Completed 5-Day Gen AI Intensive.png"/>][kaggle-gen-ai-cert]
 
