@@ -143,9 +143,7 @@
          azra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaaron93&hide=jupyter%20notebook&theme=synthwave" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JAaron93&show_icons=true&locale=en&theme=synthwave" />
-</a>
+
 
 ## Certificates
 
