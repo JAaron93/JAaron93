@@ -4,7 +4,7 @@
 - 🔭 Former AI Implementation Engineer @ [Forethought](https://forethought.ai/)
 - 📝 I write articles on [Medium](https://joshua-elamin-datasci.medium.com/)
 - ✨ Just recently took part in [Kaggle's Gen AI Intensive Course](https://blog.google/feed/kaggle-genai-intensive-course-2025/)
-- 🦾 Currently taking part in [Huggingface's Gradio x Agents x MCP Hackathon](https://huggingface.co/Agents-MCP-Hackathon)
+- 🦾 Currently taking part in the [Raise your Hack](https://lablab.ai/event/raise-your-hack/) hackathon! - Qubic / [Fetch.ai](https://fetch.ai/events/hackathons/raise-your-hack-world-s-largest-ai-hackathon/hackpack) track
 
 <br />
 
