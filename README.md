@@ -4,7 +4,7 @@
 - 🔭 Former AI Implementation Engineer @ [Forethought](https://forethought.ai/)
 - 📝 I write articles on [Medium](https://joshua-elamin-datasci.medium.com/)
 - ✨ Just recently took part in [Kaggle's Gen AI Intensive Course](https://blog.google/feed/kaggle-genai-intensive-course-2025/)
-- 🦾 Currently taking part in the [Code with Kiro Hackathon]([https://lablab.ai/event/raise-your-hack/](https://kiro.devpost.com/)) hackathon!
+- 🦾 Currently taking part in the [Code with Kiro Hackathon](https://kiro.devpost.com/) hackathon!
 
 <br />
 
