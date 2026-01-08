@@ -3,7 +3,7 @@
 
 - 🔭 Former AI Implementation Engineer @ [Forethought](https://forethought.ai/)
 - 📝 I write articles on [Medium](https://joshua-elamin-datasci.medium.com/)
-- ✨ Just recently took part in [Kaggle's Gen AI Intensive Course](https://blog.google/feed/kaggle-genai-intensive-course-2025/)
+- ✨ Just recently took part in [Kaggle & Google's AI Agents Intensive Course](https://www.kaggle.com/blog/5-days-of-ai-agents-intensive-course-with-google)
 
 <br />
 
@@ -15,7 +15,7 @@
 
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
-[<img align="left" style="margin-right: 1.5rem" alt="Kaggle" width="36px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg" />][kaggle]
+[<img align="left" style="margin-right: 1.5rem" alt="Kaggle" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" />][kaggle]
 
 
 [<img align="left" style="margin-right: 1.5rem" alt="Medium" width="36px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
@@ -182,9 +182,8 @@
 <br />
 
 
-<a href="https://github.com/anuragh
-         azra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaaron93&hide=jupyter%20notebook&theme=synthwave" />
+<a href="https://github.com/lowlighter/metrics">
+  <img align="center" src="./github-metrics.svg" alt="Metrics" />
 </a>
 
 
@@ -201,8 +200,17 @@
 
 [<img align="left" style="margin-right: 1.5rem" alt="" width="800px" src="assets\Completed 5-Day Gen AI Intensive.png"/>][kaggle-gen-ai-cert]
 
+<br clear="all" />
+<div style="margin-bottom: 20px;"></div>
+
+### Kaggle & Google | AI Agents Intensive Certificate
+
+<img align="left" style="margin-right: 1.5rem" alt="" width="800px" src="/Users/pretermodernist/JAaron93/assets/5-Day AI Agents Intensive Course with Google.png"/>
+
 [medium]: https://joshua-elamin-datasci.medium.com/
 [linkedin]: https://www.linkedin.com/in/joshua-elamin-2b2ba9209/
 [kaggle]: https://www.kaggle.com/pretermodernist
 [kaggle-gen-ai-cert]: https://www.kaggle.com/certification/badges/pretermodernist/96
+[kaggle-ai-agent-cert]:
+https://www.kaggle.com/certification/badges/pretermodernist/105
 [credly]: https://www.credly.com/go/fLcdYV9n
