@@ -205,7 +205,7 @@
 
 ### Kaggle & Google | AI Agents Intensive Certificate
 
-<img align="left" style="margin-right: 1.5rem" alt="" width="800px" src="/Users/pretermodernist/JAaron93/assets/5-Day AI Agents Intensive Course with Google.png"/>
+[<img align="left" style="margin-right: 1.5rem" alt="" width="800px" src="assets\5-Day AI Agents Intensive Course with Google.png"/>][kaggle-ai-agent-cert]
 
 [medium]: https://joshua-elamin-datasci.medium.com/
 [linkedin]: https://www.linkedin.com/in/joshua-elamin-2b2ba9209/
