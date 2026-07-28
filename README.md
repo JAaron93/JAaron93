@@ -3,7 +3,7 @@
 
 - 🔭 Former AI Implementation Engineer @ [Forethought](https://forethought.ai/)
 - 📝 I write articles on [Medium](https://joshua-elamin-datasci.medium.com/)
-- ✨ Just recently took part in [Kaggle & Google's AI Agents Intensive Course](https://www.kaggle.com/blog/5-days-of-ai-agents-intensive-course-with-google)
+- ✨ Just recently took part in [Kaggle & Google's AI Agents: Intensive Vibe Coding Course](https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google/overview)
 
 <br />
 
