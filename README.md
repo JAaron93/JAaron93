@@ -198,7 +198,7 @@
 
 ### Kaggle | Gen AI Intensive Course Certificate
 
-[<img align="left" style="margin-right: 1.5rem" alt="" width="800px" src="assets\Completed 5-Day Gen AI Intensive.png"/>][kaggle-gen-ai-cert]
+[<img align="left" style="margin-right: 1.5rem" alt="" width="800px" src="assets/5-Day Gen AI Intensive - Date Added.png"/>][kaggle-gen-ai-cert]
 
 <br clear="all" />
 <div style="margin-bottom: 20px;"></div>
