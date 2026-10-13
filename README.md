@@ -196,21 +196,36 @@
 <br clear="all" />
 <div style="margin-bottom: 20px;"></div>
 
-### Kaggle | Gen AI Intensive Certificate
+### Kaggle | Gen AI Intensive Course Certificate
 
 [<img align="left" style="margin-right: 1.5rem" alt="" width="800px" src="assets\Completed 5-Day Gen AI Intensive.png"/>][kaggle-gen-ai-cert]
 
 <br clear="all" />
 <div style="margin-bottom: 20px;"></div>
 
-### Kaggle & Google | AI Agents Intensive Certificate
+### Kaggle & Google | AI Agents Intensive Course Certificate
 
 [<img align="left" style="margin-right: 1.5rem" alt="" width="800px" src="assets\5-Day AI Agents Intensive Course with Google.png"/>][kaggle-ai-agent-cert]
 
-[medium]: https://joshua-elamin-datasci.medium.com/
-[linkedin]: https://www.linkedin.com/in/joshua-elamin-2b2ba9209/
-[kaggle]: https://www.kaggle.com/pretermodernist
-[kaggle-gen-ai-cert]: https://www.kaggle.com/certification/badges/pretermodernist/96
+<br clear="all" />
+<div style="margin-bottom: 20px;"></div>
+
+### Kaggle & Google | AI Agents: Intensive Vibe Coding Course Certificate
+
+[<img align="left" style="margin-right: 1.5rem" alt="" width="800px" src="assets/5-Day AI Agents Intensive Vibe Coding Course.png"/>][kaggle-ai-agent-vibe-coding-cert]
+
+
+[medium]: 
+https://joshua-elamin-datasci.medium.com/
+[linkedin]: 
+https://www.linkedin.com/in/joshua-elamin-2b2ba9209/
+[kaggle]: 
+https://www.kaggle.com/pretermodernist
+[kaggle-gen-ai-cert]: 
+https://www.kaggle.com/certification/badges/pretermodernist/96
 [kaggle-ai-agent-cert]:
 https://www.kaggle.com/certification/badges/pretermodernist/105
-[credly]: https://www.credly.com/go/fLcdYV9n
+[kaggle-ai-agent-vibe-coding-cert]:
+https://www.kaggle.com/certification/badges/pretermodernist/108
+[credly]: 
+https://www.credly.com/go/fLcdYV9n
